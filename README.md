@@ -20,35 +20,35 @@ Vivo actualmente en Springfield Massachusetts EEUU.
 <table style="width:100%">
 <tr>
 <td>
-<a= hef="">
+<a= hef="https://desarrolloweb.com/articulos/que-es-html.html">
 <center><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png">
 </a>
 </td>
 <td>
-<a= hef="">
+<a= hef="https://developer.mozilla.org/es/docs/Learn/CSS/First_steps/What_is_CSS">
 <center><img text-aling src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">
 </a>
 </td>
 <td>
-<a= hef="">
+<a= hef="https://www.java.com/es/download/help/whatis_java.html">
 <center><img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="">
+<a href="https://developer.mozilla.org/es/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
 <center><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
 </a>
 </td>
 <td>
-<a href="">
+<a href="https://www.postgresql.org/">
 <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png"width = 100 >
 </a>
 </td>
 <td>
-<a href="">
-Y algo mas.
+<a href="https://spring.io/projects/spring-boot">
+<center><img src="https://miro.medium.com/v2/resize:fit:1400/1*aXe6MaOyhdIP5WqdPHhSFw.png"width = 140 >
 </a>
 </td>
 </tr>
